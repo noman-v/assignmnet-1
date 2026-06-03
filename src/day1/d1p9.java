@@ -1,3 +1,5 @@
+package day1;
+
 import java.util.Scanner;
 public class d1p9 {
     public static void main(String[] args){
