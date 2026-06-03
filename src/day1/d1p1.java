@@ -1,3 +1,5 @@
+package day1;
+
 public class d1p1 {
     public static void main(String[] args) {
        int a=9;
