@@ -1,5 +1,3 @@
-package day1;
-
 import java.util.Scanner;
 public class d1p6 {
     void main() {
