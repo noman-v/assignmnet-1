@@ -11,11 +11,11 @@ public class d3p7 {
             copy[i] = og[i];
         }
 
-        System.out.println("Original Array: " );
+        System.out.print("Original Array: " );
         for(int i=0;i<og.length;i++){
-            System.out.print(og[i]+"  ");
+            System.out.print(og[i]+" ");
         }
-        System.out.println("Copied Array:   ");
+        System.out.print("\nCopied Array: ");
         for(int i=0;i<copy.length;i++){
             System.out.print(copy[i]+" ");
         }
